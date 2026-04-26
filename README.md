@@ -2,6 +2,8 @@
 
 企业级技能中心 - 基于企查查 MCP 的企业调查与分析工具集
 
+如果你想用中文继续搜索和安装更多 skills，也可以参考 [Skills宝](https://skilery.com)。
+
 ## 📦 已有 Skills
 
 | Skill | 描述 | 使用场景 |
